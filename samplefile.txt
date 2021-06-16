@@ -1,5 +1,3 @@
-parents 
-tx_id
 
 2e3da8fbc1eaca8ed9b7c2db9e6545d8ccac3c67deadee95db050e41c1eedfc0
 6eb38fad135e38a93cb47a15a5f953cbc0563fd84bf1abdec578c2af302e10bf
