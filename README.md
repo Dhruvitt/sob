@@ -1,4 +1,4 @@
-# sob-prototype
+# SummerofBitcoin
 This is submission for Summer of Bitcoin
 
 A program which reads a file mempool.csv
