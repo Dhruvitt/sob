@@ -1,5 +1,5 @@
 # sob-prototype
-This is submission prototype for Summer of Bitcoin
+This is submission for Summer of Bitcoin
 
 A program which reads a file mempool.csv
   
