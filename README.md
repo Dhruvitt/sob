@@ -9,4 +9,3 @@ This is submission prototype for Summer of Bitcoin
   the form: <txid1>;<txid2>;...
   
 The output from the program is txids, separated by newlines, which make a valid block, maximizing the fee to the miner. Transactions MUST appear in order
-(no transaction should appear before one of its parents).
